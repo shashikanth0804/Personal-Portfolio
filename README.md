@@ -14,10 +14,8 @@
 ---
 
 ## 🚀 Introduction
+Welcome to my digital showcase—a dynamic, responsive portfolio that tells the story of my journey as a developer. Explore my latest projects, discover the technologies I'm passionate about, and get a glimpse into the experiences that have shaped my approach to creating innovative solutions.
 
-In this tutorial, you'll learn how to build a modern portfolio website using **React**, **TailwindCSS**, **Vite**, and **Lucide Icons**. From dark mode support to responsive animations and deployable project showcases, this video walks you through every step—perfect for developers looking to level up their frontend skills or apply for jobs.
-
-🎥 Watch the full tutorial: [YouTube](https://youtu.be/YOUR_VIDEO_ID)
 
 ---
 
